@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.warpedcakez.pissmod",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [
+    "ArmorItemMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

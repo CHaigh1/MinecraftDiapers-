@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing",
+  "base": {"item": "pissmod:diamond_diaper_leggingse"},
+  "addition": {"item": "minecraft:netherite_ingot"},
+  "result": {
+    "item": "pissmod:netherite_diaper_leggings",
+    "count": 1
+  }
+}

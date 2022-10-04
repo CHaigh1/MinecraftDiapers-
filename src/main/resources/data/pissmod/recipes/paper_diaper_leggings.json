@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "W W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "pissmod:paper_diaper_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W  ",
+    "X  ",
+    "   "
+  ],
+  "key": {
+    "W": {
+      "item": "pissmod:fabric_item"
+    },
+    "X": {
+      "item": "minecraft:golden_leggings"
+    }
+  },
+  "result": {
+    "item": "pissmod:gold_diaper_leggings",
+    "count": 1
+  }
+}
